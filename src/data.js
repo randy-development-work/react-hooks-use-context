@@ -1,5 +1,5 @@
 const user = {
-  name: "Duane",
+  name: "RK",
   interests: ["Coding", "Biking", "Words ending in 'ing'"],
 };
 
